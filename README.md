@@ -36,9 +36,12 @@ Las almas no cazadas (las jodidas), como se dijo, son `atormentadas` por el demo
 Finalmente, cuando un demonio sale a cazar a un lugar aumenta su nivel de maldad en un número igual a la suma de la cantidad de almas atormentadas más el doble de las almas cazadas en ese lugar (no tener en cuenta las ya cazadas).
 
 El Diablo quiere que modelemos la situación planteada de forma de lograr representar:
-    * a.Saber si un demonio puede cazar a un alma dada, porque cumple tanto las condiciones generales como las particulares según cada demonio.
-    * b.Que un demonio atormente a un alma en particular.
-    * c.Hacer que un demonio salga de caza a un lugar, cazando las almas que pueda y atormentando al resto. El lugar debe quedar sin las almas capturadas por el demonio.
+
+- Saber si un demonio puede cazar a un alma dada, porque cumple tanto las condiciones generales como las particulares según cada demonio.
+
+- Que un demonio atormente a un alma en particular.
+
+- Hacer que un demonio salga de caza a un lugar, cazando las almas que pueda y atormentando al resto. El lugar debe quedar sin las almas capturadas por el demonio.
 
 ## Parte II
 
@@ -48,11 +51,11 @@ Las `almas` pueden entrenar y aprender distintas técnicas para defenderse y evi
 * Supervivencia extrema en el infierno: si realiza esta supervivencia, el `almas` nunca puede ser friolenta.
 * Cruz roja:  si se une a la cruz roja, el `almas` siempre va a tener como mínimo 100 de bondad.
 
-* d.En este caso, el Diablo necesita poder entrenar un alma en particular en alguna técnica
+- En este caso, el Diablo necesita poder entrenar un alma en particular en alguna técnica
 
 ## Parte III
 
 El Diablo quiere que podamos obtener:
-- e.todas las almas cazadas por todos sus demonios
-- f.de todas las almas cazadas, quiere obtener la mas valiente
-- g.obtener el demonio que mas almas cazó
+- todas las almas cazadas por todos sus demonios
+- de todas las almas cazadas, quiere obtener la mas valiente
+- obtener el demonio que mas almas cazó
