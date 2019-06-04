@@ -33,7 +33,7 @@ Las almas no cazadas (las jodidas), como se dijo, son `atormentadas` por el demo
 * si es un demonio de hielo, entonces convierte al alma atormentada en friolenta
 * los demonios de sombras disminuyen adicionalmente el nivel de valor a la mitad para mejorar las probabilidades de éxito en un ataque futuro.
 
-Finalmente, cuando un demonio sale a cazar a un lugar aumenta su nivel de maldad en un número igual a la suma de la cantidad de almas atormentadas más el doble de las almas cazadas.
+Finalmente, cuando un demonio sale a cazar a un lugar aumenta su nivel de maldad en un número igual a la suma de la cantidad de almas atormentadas más el doble de las almas cazadas en ese lugar (no tener en cuenta las ya cazadas).
 
 ## Parte II
 
