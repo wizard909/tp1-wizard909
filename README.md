@@ -13,7 +13,7 @@ El Diablo, eventualmente, da la orden a un demonio para que vaya a cazar almas a
 
 Cuando un demonio sale a cazar a un `lugar`, para cada alma del lugar pueden ocurrir dos cosas: 
 * que el demonio logre *cazarla*
-* o bienque el demonio no logre su objetivo, en cuyo caso se desquita *atormentándola*.
+* o bien que el demonio no logre su objetivo, en cuyo caso se desquita *atormentándola*.
 
 Para poder cazar a un alma determinada tienen que darse *siempre* dos condiciones (para cualquier tipo de demonio) :
 
