@@ -1,4 +1,4 @@
-# Un Paseo por el Infierno
+# Parcial 1 - "Diabólico"
 
 ## Parte 1
 
