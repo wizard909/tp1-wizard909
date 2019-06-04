@@ -1,4 +1,4 @@
-# Parcial 1 - "Diabólico"
+# "Diabólico"
 
 ## Parte 1
 
